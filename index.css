@@ -13,7 +13,7 @@ a,a:hover,a:active,a:visited,a:link,a:focus{
 }
 body{
 
-background: url(img/bg.jpg) no-repeat;
+background: url(img/bg.webp) no-repeat;
 background-size:100% auto;
 background-attachment:fixed;
 -webkit-background-size: cover;
